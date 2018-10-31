@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'les3'
+include 'uniquewords'
+include 'phonebook'
